@@ -7,6 +7,7 @@ Machine Learning for Consumer Credit Risk
 This project develops machine learning models to support lending decisions in a retail banking context. It consists of:
 
 Part A – Loan Approval Classification: Predict whether a loan application should be approved or rejected.
+
 Part B – Maximum Loan Amount Prediction: Estimate the maximum loan amount a client should be granted.
 
 The modelling approach combines academic justification with business-oriented evaluation.
