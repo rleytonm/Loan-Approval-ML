@@ -70,5 +70,7 @@ Python, Scikit-learn, PyCaret, Pandas, NumPy, Matplotlib
 
 Author:
 Cristian Renato Leyton Medina
+
 MSc Data Science and Analytics
+
 University of Westminster
