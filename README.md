@@ -10,8 +10,6 @@ Part A – Loan Approval Classification: Predict whether a loan application shou
 
 Part B – Maximum Loan Amount Prediction: Estimate the maximum loan amount a client should be granted.
 
-The modelling approach combines academic justification with business-oriented evaluation.
-
 # Business Context
 
 Credit decisions involve asymmetric costs:
